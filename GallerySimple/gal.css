@@ -53,4 +53,71 @@ body{
 .image9
 {
 	background-image:url("kaizen.png");
+}body{
+	background: black;
+}
+.headgal{
+	color: #f1f1f1;
+	font-family: "Raleway";
+	font-weight: 800;
+	font-size: 35px;
+	margin: 1.66%;
+	text-transform: uppercase;
+	border-bottom: 3px solid #f1f1f1;
+	padding-bottom: 8px;
+	width:63.5%;
+	float: left;
+}
+.home{
+	color: #f1f1f1;
+	font-family: "Raleway";
+	font-size: 23px;
+	margin: 1.66%;
+	text-transform: uppercase;
+	padding-bottom: 8px;
+	padding-left: 25%;
+	
+	float: left;
+}
+.image {
+    height: 300px;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    background-size: cover;
+    background-position: center center;
+}
+
+.image1 {
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/Microsoft.PNG?raw=true"); 
+}
+.image2 {
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/nptelimad.PNG?raw=true"); 
+}
+.image3 {
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/pythonnp.PNG?raw=true"); 
+}
+.image4
+{
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/linkpython.PNG?raw=true");
+}
+.image5
+{
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/npat.PNG?raw=true");
+}
+.image6
+{
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/angular.PNG?raw=true");
+}
+.image7
+{
+	background-image: url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/gitudem.PNG?raw=true");
+}
+.image8
+{
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/sql.PNG?raw=true");
+}
+.image9
+{
+	background-image:url("https://github.com/HargunCoder/HargunCoder.github.io/blob/master/GallerySimple/kaizen.PNG?raw=true");
 }
