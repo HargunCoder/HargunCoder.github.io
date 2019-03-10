@@ -11,61 +11,6 @@ body{
 	border-bottom: 3px solid #f1f1f1;
 	padding-bottom: 8px;
 	width:63.5%;
-}
-.image {
-    height: 300px;
-    width: 30%;
-    float: left;
-    margin: 1.66%;
-    background-size: cover;
-    background-position: center center;
-}
-
-.image1 {
-	background-image:url("Microsoft.png"); 
-}
-.image2 {
-	background-image:url("nptelimad.png"); 
-}
-.image3 {
-	background-image:url("pythonnp.png"); 
-}
-.image4
-{
-	background-image:url("linkpython.png");
-}
-.image5
-{
-	background-image:url("npat.png");
-}
-.image6
-{
-	background-image:url("angular.png");
-}
-.image7
-{
-	background-image: url("gitudem.png");
-}
-.image8
-{
-	background-image:url("sql.png");
-}
-.image9
-{
-	background-image:url("kaizen.png");
-}body{
-	background: black;
-}
-.headgal{
-	color: #f1f1f1;
-	font-family: "Raleway";
-	font-weight: 800;
-	font-size: 35px;
-	margin: 1.66%;
-	text-transform: uppercase;
-	border-bottom: 3px solid #f1f1f1;
-	padding-bottom: 8px;
-	width:63.5%;
 	float: left;
 }
 .home{
